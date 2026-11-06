@@ -1,7 +1,7 @@
 /*** header block ***
  * code file name--------: Red, Green, Yellow LED Blink
  * code description------: Red, Green and Yellow LED will light up after holding down button
- * development board-----: UNO/MEGA...etc
+ * development board-----: MEGA 2560
  * sensors/devices needed:
  * IDE version-----------: 2.3.10
  * programmer(s) name----: Kevin Herrera Morales
